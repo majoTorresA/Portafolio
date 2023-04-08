@@ -1,0 +1,31 @@
+.container{
+    margin: 2rem 3rem;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__text{
+    width: 60%;
+    margin: 0 auto;
+}
+.main__text h2 {
+    font-size: 3rem;
+    line-height: 2px;
+}
+.main__p {
+    width: 85%;
+}
+
+.main__button{
+    background-color: #6f6dff ;
+    border: none;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #ececec;
+}
+
