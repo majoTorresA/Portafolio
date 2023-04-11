@@ -2,3 +2,5 @@
 @import "./normalize.css";
 @import "./header/header.css";
 @import "./main/main.css";
+@import "./main/about.css";
+@import "./main/skills.css";

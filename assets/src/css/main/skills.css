@@ -1,0 +1,33 @@
+.skills{
+    margin: 3rem;
+  
+}
+
+.skills__title{
+display: flex;
+justify-content: center;
+font-size: 1.8rem;
+}
+.skills__list{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.skills__item {
+    background-color: #ececec;
+    border-radius: 10px;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.skills__item h4 {
+    color: #252525;
+}
+.skills__item img{
+    width: 4rem;
+    
+}
