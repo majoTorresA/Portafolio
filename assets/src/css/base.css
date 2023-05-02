@@ -2,13 +2,13 @@
 :root {
 
     --titles: 'Ubuntu', sans-serif;
-    --font-colorLight: #f6f6f6;
+    --font-colorLight: #252525;
 
     
 }
 body {
-    background-image: linear-gradient(to right, #3100a3, #3304a0, #35089e, #370d9b, #391099);    width: 100%;
-    min-height: 100vh;
+    background-color: #fafafa; 
+   min-height: 100vh;
     font-family: sans-serif;
     color: var(--font-colorLight);
 }
