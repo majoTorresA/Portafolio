@@ -22,7 +22,9 @@
 
 .nav__list img{
 width: 30px;
+
 }
+
 .nav__contact{
     display: flex;
     gap: 15px ;

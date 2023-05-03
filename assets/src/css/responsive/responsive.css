@@ -1,0 +1,38 @@
+@media (max-width: 600px){
+    .main__text{
+        flex-direction: column;
+    }
+    .main__text h2{
+        
+    font-size: 2rem;
+    }
+    .aboutMe__container{
+        flex-direction: column;
+    }
+    .aboutMe__text{
+        width: 100%;
+        text-align: center;
+    }
+    .aboutMe__img img{
+        display: none;
+     }
+     .skills__list{
+        gap: 1rem;
+    }
+     .skills__item {
+        width: 5rem;
+        padding: 2rem;
+    }
+    
+    .skills__item img{
+        width: 2.5rem;
+    }
+    .formacion__list{
+       flex-direction: column;
+        gap: 1rem;
+    }
+    form{
+        width: 100%;
+  
+    }
+}

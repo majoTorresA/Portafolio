@@ -8,9 +8,11 @@ font-size: 1.8rem;
     display: flex;
     justify-content: center;
     gap: 2rem;
+    flex-wrap: wrap;
+    padding-inline-start: 0;
 }
 .skills__item {
-    background-color: #d5e4e6;
+    background-color: #d5edf0;
     border-radius: 10px;
     width: 8rem;
     display: flex;
@@ -18,6 +20,7 @@ font-size: 1.8rem;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    padding: 1.5rem;
 
 }
 

@@ -1,0 +1,22 @@
+.works h3{
+    display: flex;
+    justify-content: center;
+}
+.works__list{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.works__title{
+    font-size: 2rem;
+}
+.works__item{
+    background-color: #d5edf0;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.works__img{
+    width: 12rem;
+    border-radius: 10px;
+}

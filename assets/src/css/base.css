@@ -6,13 +6,22 @@
 }
 *{
     box-sizing: border-box;
+  
 }
+
 body {
     background-color: #fafafa; 
    min-height: 100vh;
     font-family: sans-serif;
     color: var(--font-colorLight);
+    transition: 0.3s ease all;
 }
+body.dark{
+    background-color: #022231;
+    color: #fafafa;
+}
+
+
 a{
     text-decoration: none;
     font-weight: bold;
