@@ -6,7 +6,6 @@
     padding: 0 2rem;
     margin: 1rem  ;
     
-    
 }
 .nav {
 
@@ -17,7 +16,12 @@
 }
 .nav__list{
     display: flex;
+    align-items: center;
     gap: 35px;
+}
+
+.nav__list img{
+width: 30px;
 }
 .nav__contact{
     display: flex;

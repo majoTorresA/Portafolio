@@ -26,16 +26,9 @@
 .main__text h5 {
     font-size: 1rem;
     line-height: 2px;
+    color: #13c3c9;
 
 }
 
-.main__button{
-    background-color: #13c3c9 ;
-    border: none;
-    padding: 1rem 1.5rem;
-    cursor: pointer;
-    border-radius: 10px;
-    font-weight: bold;
-    color: #ececec;
-}
+
 

@@ -3,8 +3,9 @@
 
     --titles: 'Ubuntu', sans-serif;
     --font-colorLight: #252525;
-
-    
+}
+*{
+    box-sizing: border-box;
 }
 body {
     background-color: #fafafa; 

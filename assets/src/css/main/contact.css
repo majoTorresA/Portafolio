@@ -1,0 +1,38 @@
+.contact {
+    display: flex;
+    justify-content: center;
+  
+}
+form {
+    width: 70%;
+}
+.form__content {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    gap: 1rem;
+   
+    
+}
+ legend{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #13c3c9;
+}
+input, textarea {
+    border: 1px solid #f6f6f6;
+    outline-color: #13c3c9 ;
+    padding: 1.2rem;
+    border-radius: 10px;
+    width: 100%;
+}
+textarea{
+    resize: none;
+  
+}
+.submit {
+    align-items: center;
+    color: #f3f3f3;
+    background-color: #13c3c9;
+}
