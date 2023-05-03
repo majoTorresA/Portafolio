@@ -1,16 +1,21 @@
 
 .aboutMe__container{
     display: flex;
-    align-items: last baseline;
+    justify-content: center;
     gap: .5rem;
 
 }
 .aboutMe__text{
-    width: 100%;
+    width: 50%;
     background-color: #d5e4e6;
     padding: 1rem 2rem;
     border-radius: 10px;
+    align-items: center;
   
+}
+.aboutMe__img img{
+   width: 20rem;
+   height: 20rem;
 }
 
 .aboutMe h3 {
