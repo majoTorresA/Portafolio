@@ -7,17 +7,23 @@
 }
 
 .main__text{
-    width: 90%;
-    margin: 0 3rem;
-    
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 80%;
+ 
 }
+
 .main__text h2 {
-    font-size: 3rem;
+    font-size: 4rem;
     line-height: 2px;
 
 }
-.main__p {
-    width: 90%;
+.main__text h5 {
+    font-size: 1rem;
+    line-height: 2px;
+
 }
 
 .main__button{

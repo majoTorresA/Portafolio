@@ -32,9 +32,13 @@ li {
 h1,h2,h3 {
     font-family: var(--titles);
 }
-
 section{
-    margin-bottom: 3rem;
+    margin: 5rem 0 ;
 }
+.container{
+    margin: 2rem;
+}
+
+
 
 
